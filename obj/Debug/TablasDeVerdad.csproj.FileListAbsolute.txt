@@ -1,0 +1,9 @@
+C:\Users\DELL\Documents\Visual Studio 2019\Projects\Personales\TablasDeVerdad\bin\Debug\TablasDeVerdad.exe.config
+C:\Users\DELL\Documents\Visual Studio 2019\Projects\Personales\TablasDeVerdad\bin\Debug\TablasDeVerdad.exe
+C:\Users\DELL\Documents\Visual Studio 2019\Projects\Personales\TablasDeVerdad\bin\Debug\TablasDeVerdad.pdb
+C:\Users\DELL\Documents\Visual Studio 2019\Projects\Personales\TablasDeVerdad\obj\Debug\TablasDeVerdad.csprojAssemblyReference.cache
+C:\Users\DELL\Documents\Visual Studio 2019\Projects\Personales\TablasDeVerdad\obj\Debug\TablasDeVerdad.formularios.Calculo.resources
+C:\Users\DELL\Documents\Visual Studio 2019\Projects\Personales\TablasDeVerdad\obj\Debug\TablasDeVerdad.Properties.Resources.resources
+C:\Users\DELL\Documents\Visual Studio 2019\Projects\Personales\TablasDeVerdad\obj\Debug\TablasDeVerdad.csproj.GenerateResource.cache
+C:\Users\DELL\Documents\Visual Studio 2019\Projects\Personales\TablasDeVerdad\obj\Debug\TablasDeVerdad.exe
+C:\Users\DELL\Documents\Visual Studio 2019\Projects\Personales\TablasDeVerdad\obj\Debug\TablasDeVerdad.pdb
